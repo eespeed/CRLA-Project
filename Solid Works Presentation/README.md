@@ -1,0 +1,1 @@
+This PowerPoint was created and used for my ENGL 303 Technical Writing class in Fall 2022. It was done with one other person. The presentation featured this PowerPoint along with short demos we recorded in the Solid Works software. It was created keeping in mind that our audience would be students from non STEM fields who have had no experience with a software of this caliber.
